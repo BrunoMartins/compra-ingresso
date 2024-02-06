@@ -1,7 +1,7 @@
 <h1>Compra de ingressos</h1>
 
 <h2>🔖 Sobre</h2>
-<p>Projeto desenvolvido durante o curso de Javascript da alura.</p>
+<p>Projeto desenvolvido durante o curso de Javascript da alura, a idéia é simular um site de compra de ingressos para um cinema.</p>
 
 ## 🚀 Tecnologias
 <div>
